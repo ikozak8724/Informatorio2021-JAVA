@@ -1,0 +1,7 @@
+Juan,Kozak,20-01-1989,458.08
+Daniel,Gomez,20-02-1982,678.08
+Igancio,Copani,20-03-2009,4578.02
+Pity,Martinez20-01-1985,4.4
+Carlitos,Sanchez,20-01-1980,45678
+Enzo,Perez12-02-1995,12312312.34
+Enzo,Franchescoli,01-04-1998,1231
